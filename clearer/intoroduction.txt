@@ -1,0 +1,5 @@
+JP
+このツールは選択したオブジェクトのarnoldの透過設定を一気にオフにできるツールです。
+
+EN
+This tool allows you to turn off the arnold transparency settings for the selected object in one Step.
